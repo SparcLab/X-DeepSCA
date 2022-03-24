@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: X-Deep-SCA
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: 'Debayan '
+    family-names: Das
+    email: das60@purdue.edu
+    affiliation: Purdue University
+  - given-names: 'Josef '
+    family-names: Danial
+    email: jdanial@purdue.edu
+    affiliation: Purdue University
+  - given-names: Shreyas
+    family-names: Sen
+    email: shreyas@purdue.edu
+    affiliation: Purdue University
+identifiers:
+  - type: url
+    value: 'https://github.com/SparcLab/X-DeepSCA'
+    description: Github link
+repository-code: 'https://github.com/SparcLab/X-DeepSCA'
+abstract: >-
+  These files provide both source code and data for
+  cross device Deep Learning Side Channel Analysis
+  (X-DeepSCA)
+keywords:
+  - Side Channel Attack
+  - Deep Learning
+  - Cross Device Attack
+  - Single Trace Attack
+  - Machine Learning
+  - Hardware Security
+license: GPL-3.0
+date-released: '2020-07-23'
